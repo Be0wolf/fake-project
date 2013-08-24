@@ -1,5 +1,13 @@
 body{
 	font-family: "Arial", sans-serif;
-	background-color: #CCCCCC;
-	color: #888888;
+	background-color: #ccc;
+	color: #333;
+	text-shadow: 0 1px 0 white;
+}
+
+div{
+	background-color: white;
+	width: 80%;
+	margin: 100px auto;
+	border-radius: 7px;
 }
